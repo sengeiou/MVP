@@ -1,9 +1,9 @@
 # MVP
 MVP+Rxjava+Retrofit+ViewBinding+EventBus
 
-1.本框架将ViewBinding进行了封装，使用时只需传入对应ViewBinding，即可通过vb.控件id访问；
-2.本框架对Presenter进行了封装，使用时只需通过注解的方式@InjectPresenter引入presenter即可，并且不再需要注册和注销操作，支持一对多；
-3.本框架对EventBus进行了封装，不再需要注册和注销操作；
+- 1.本框架将ViewBinding进行了封装，使用时只需传入对应ViewBinding，即可通过vb.控件id访问；
+- 2.本框架对Presenter进行了封装，使用时只需通过注解的方式@InjectPresenter引入presenter即可，并且不再需要注册和注销操作，支持一对多；
+- 3.本框架对EventBus进行了封装，不再需要注册和注销操作；
 
 ![效果图](https://img-blog.csdnimg.cn/20200826170818594.gif#pic_center)
 
